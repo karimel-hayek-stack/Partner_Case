@@ -3,7 +3,6 @@
 Animated HTML presentation, built as a static site for GitHub Pages.
 
 - `Index.html`: Energy & Utilities edition (main deck)
-- `classic.html`: Classic edition
 
 Everything (fonts, images, logos, animations) is embedded in each HTML file, so no build step or server is needed.
 
